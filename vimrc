@@ -10,6 +10,7 @@ call vundle#begin()
 " let Vundle manage Vundle, required
 Plugin 'VundleVim/Vundle.vim'
 
+Plugin 'tpope/vim-fugitiv'
 Plugin 'tpope/vim-fugitive'
 Plugin 'L9'
 Plugin 'endwise.vim'
