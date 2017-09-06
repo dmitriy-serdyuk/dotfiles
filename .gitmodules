@@ -5,7 +5,7 @@
 [submodule "oh-my-zsh"]
 	path = oh-my-zsh
 	url = https://github.com/dmitriy-serdyuk/oh-my-zsh.git
-	branch = master
+	branch = dima
 [submodule "vim/bundle/Vundle.vim"]
 	path = vim/bundle/Vundle.vim
 	url = https://github.com/VundleVim/Vundle.vim.git
