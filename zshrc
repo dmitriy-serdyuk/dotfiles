@@ -87,7 +87,7 @@ JAVA_HOME=/
 #export PROMPT='%n@%m:%c$ '
 #export LANG=en_US
 #export RPROMPT='[%~]'
-alias ls='ls --color=auto'
+#alias ls='ls --color=auto'
 alias time='/usr/bin/time -p'
 #alias dir='dir --color=auto'
 #alias vdir='vdir --color=auto'
@@ -167,4 +167,4 @@ fi
 # added by Anaconda 2.1.0 installer
 #export PATH="/opt/anaconda/anaconda/bin:$PATH"
 export PYTHONPATH=~/workspace/blocks/:~/workspace/picklable_itertools/:~/workspace/fuel:$PYTHONPATH
-export PATH="/data/miniconda/bin:$PATH"
+export PATH="$HOME/miniconda/bin:$PATH"
