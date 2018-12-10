@@ -6,5 +6,5 @@ Installation
 
 ```bash
 pip install dotfiles
-wget -q https://rawgit.com/dmitriy-serdyuk/dotfiles/master/install.sh -O - | bash
+wget -q https://cdn.jsdelivr.net/gh/dmitriy-serdyuk/dotfiles/install.sh -O - | bash
 ```
